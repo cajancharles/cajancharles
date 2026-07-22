@@ -4,6 +4,6 @@
 
 I'm a Data Analyst focused on transforming raw data into meaningful insights and practical business solutions. My work involves data analysis, reporting, dashboard development, process improvement, and workflow automation.
 
-You can visit my website for my portfolio -> https://cajancharles.github.io/
+You can visit my latest project; Web-based Point of Sales - https://cajancharles.github.io/projects/pos-system.html
 
-![](https://komarev.com/ghpvc/?cajancharles)
+![](https://komarev.com/ghpvc/?username=cajancharles)
