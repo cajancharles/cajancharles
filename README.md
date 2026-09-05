@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for part time jobs (project based). I'm a Data Analyst focused on transforming raw data into meaningful insights and practical business solutions. My work involves data analysis, reporting, dashboard development, process improvement, and workflow automation. You can visit my latest project; Web-based Point of Sales - https://cajancharles.github.io/projects/pos-system.html<br><br>🆕 New Projects — Ragnarok: The New World<br><br>Headwear Tracker — https://github.com/cajancharles/RONWHeadwearTracker<br>Guild Management Tool — https://www.ronwguildtool.online/
+🔭 I’m currently looking for part time jobs (project based). I'm a Data Analyst focused on transforming raw data into meaningful insights and practical business solutions. My work involves data analysis, reporting, dashboard development, process improvement, and workflow automation. You can visit my latest project; Web-based Point of Sales - https://cajancharles.github.io/projects/pos-system.html<br><br>🆕 New Projects — Ragnarok: The New World<br><br>RONW Guild Management Tool — https://www.ronwguildtool.online/
 
 
 ## 🌐 Socials:
